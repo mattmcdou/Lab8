@@ -21,7 +21,7 @@ const styles = {
     }
 };
 
-const HomeePage = () => {
+const HomePage = () => {
     return (
         <div style={styles.container}>
             <h2>Welcome to Our Product</h2>
@@ -50,4 +50,4 @@ const HomeePage = () => {
         </div>
     )
 }
-export default HomeePage;
+export default HomePage;
